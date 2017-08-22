@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="api_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="api_key">fda072f514d9be6f9c1ace7ab6e276b4</string>
+    <string name="action_sort_by">Sort by</string>
+    <string name="action_sort_by_popularity">Most Popular</string>
+    <string name="action_sort_by_rating">Highest Rated</string>
+    <string name="action_favorit_view">favorit view</string>
+    <string name="title_activity_detail">Movie Details</string>
+    <string name="rating">Rating</string>
+    <string name="trailers">Trailers</string>
+    <string name="release_date">Released</string>
+    <string name="details">Details</string>
+    <string name="over_view">Over view</string>
+    <string name="reviews">Reviews</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="removed_from_favorites">Removed from Favorites</string>
+    <string name="added_to_favorites">Added to Favorites</string>
+    <string name="action_share">Share</string>
+    <string name="add_fav">Added To Favourite</string>
+    <string name="review">Reviews and Commentary</string>
+    <string name="remove_fav">Removed From Favourite</string>
+    <string name="content_authority">com.aliessa.movieapp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="image_name">image_name</string>
+    <string name="share_image">share_image</string>
+    <string name="full_text">full_text</string>
+    <string name="No_Inetnet_Connecion">No Inetnet Connecion</string>
+    <string name="Buffer_Error">Buffer Error</string>
+    <string name="Close_Error">Close Error</string>
+    <string name="Url_Img">http://image.tmdb.org/t/p/w185/</string>
+    <string name="results">results</string>
+    <string name="rated">rated:</string>
+    <string name="rated_max">/10</string>
+</resources>
